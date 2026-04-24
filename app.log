@@ -1,0 +1,12 @@
+[启动] EastAIstudio 工作目录: E:\腾讯小龙虾输出代码文件夹\gmin
+[启动] Python: 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]
+[启动] frozen: False
+[Canvas] QOpenGLWidget viewport 已设置
+[工作流] 卡槽 0 多选上传: 1 张图片
+  → 填入卡槽 0: C:/Users/Administrator/Pictures/微信图片_20260320172943_1180_851.jpg
+[工作流] 卡槽 1 多选上传: 2 张图片
+  → 填入卡槽 1: F:/SP1/DSC3814_4d32.JPG
+  → 1 张图片按列 1 向下分配
+[工作流] 按列分配 v9.3: 列=1(服装), 图片数=1
+  → 新建任务 #2 卡槽 1: F:/SP1/DSC3814_7f7a.JPG
+[工作流] 按列分配完成，处理 1 张图片
